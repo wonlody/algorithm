@@ -1,6 +1,6 @@
 /*
    problem 2753 : 윤년
-   BACKJOON >> jh05013, rory143
+   BAEKJOON >> jh05013, rory143
    
    연도가 주어졌을 때, 윤년이면 1, 아니면 0을 출력하는 프로그램
 */
