@@ -6,7 +6,6 @@
    key point : 줄바꿈(\n)
 */
 
-
 #include <stdio.h>
 
 int main(void)
