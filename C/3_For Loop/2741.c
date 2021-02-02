@@ -1,5 +1,5 @@
 /*
-   problem 2741 : N찍기
+   problem 2741 : N 찍기
    BAEKJOON >> baekjoon, rory143
    
    자연수 N이 주어졌을 때, 1부터 N까지 한 줄에 하나씩 출력하는 프로그램
