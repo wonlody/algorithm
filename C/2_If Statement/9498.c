@@ -1,6 +1,6 @@
 /*
    problem 9498 : 시험 성적
-   BACKJOON >> baekjoon
+   BAEKJOON >> baekjoon
    
    시험 점수를 입력받아, 시험 성적{A(90~100), B(80~89), C(70~79), D(60~69), F(나머지)}을 출력하는 프로그램
 */
