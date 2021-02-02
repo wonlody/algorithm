@@ -1,5 +1,5 @@
 /*
-   problem 2438 : 별 찍기-2
+   problem 2439 : 별 찍기-2
    BAEKJOON >> baekjoon, namnamseo
    
    첫째 줄에는 별 1개, 둘째 줄에는 별 2개, N번째 줄에는 별 N개를 찍는 프로그램 (오른쪽 기준으로 정렬)
