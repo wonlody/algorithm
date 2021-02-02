@@ -12,9 +12,10 @@ int main(void)
     int t, a, b;
     scanf("%d", &t);
 
-    for (int i = 1; i < n+1; i++)
+    for (int i = 1; i < t+1; i++)
     {
-        printf("%d\n", i);
+        scanf("%d %d", &a, &b);
+        printf("Case #%d: %d\n", i, a+b);
     }
     
     return 0;
