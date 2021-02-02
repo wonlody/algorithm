@@ -12,9 +12,9 @@ int main(void)
     long n;
     scanf("%ld", &n);
 
-    for (int i = 1; i < n+1; i++)
+    for (long i = 1; i < n+1; i++)
     {
-        printf("%d\n", i);
+        printf("%ld\n", i);
     }
     
     return 0;
