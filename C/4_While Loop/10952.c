@@ -19,7 +19,6 @@ int main(void)
             break;
         }
         printf("%d\n", a+b);
-
     }
     
     return 0;
