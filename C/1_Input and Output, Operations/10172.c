@@ -1,10 +1,9 @@
 /*
    problem 10172 : 개
-   BACKJOON >> High School > PLU High School Programming Contest > PLU 2014 - Novice 3번
+   BAEKJOON >> High School > PLU High School Programming Contest > PLU 2014 - Novice 3번
    
    key point : 역슬래시(\), 큰따옴표("") 출력
 */
-
 
 #include <stdio.h>
 
