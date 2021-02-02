@@ -1,5 +1,5 @@
 /*
-   problem 1000 : Hello World
+   problem 2557 : Hello World
    BAEKJOON
    
    Hello World! 화면에 출력
