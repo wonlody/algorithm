@@ -1,6 +1,6 @@
 /*
    problem 2884 : 알람 시계
-   BACKJOON >> Contest > Croatian Open Competition in Informatics > COCI 2009/2010 > Contest #7 1번
+   BAEKJOON >> Contest > Croatian Open Competition in Informatics > COCI 2009/2010 > Contest #7 1번
    06elvalove, baekjoon, eric00513, muicode, jaehuyng3594
    
    알람 시각이 주어졌을 때, 45분 일찍 시간을 바꾸는 프로그램
