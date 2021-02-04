@@ -14,5 +14,5 @@ long long sum(int *a, int n)
         ans += a[i];
     }
     
-	  return ans;
+    return ans;
 }
