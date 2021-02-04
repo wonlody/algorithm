@@ -1,38 +1,28 @@
 /*
    problem 10818 : 최소, 최대
-   BAEKJOON >> baekjoon, doju, eric00513, jh05013
+   BAEKJOON >> baekjoon, lina, topology
    
    N개의 정수를 입력받아, 최솟값과 최댓값을 구하는 프로그램
 */
 
-#include <stdio.h>
-
 int main(void)
 {
-    long n, new_n, cycle = 0;
+    long n, num, min=1000000, max=-1000000;
     scanf("%ld", &n);
-    
-    new_n = n;
 
-    while (1)
+    for (int i = 0; i < n; i++)
     {
-    	if (new_n < 10)
-    	{
-    		new_n = 11 * new_n;
-    	}
-    	else
+        scanf("%ld", &num);
+        if (max < num)
         {
-            new_n = (new_n % 10) * 10 + (new_n / 10 + new_n % 10) % 10;
+            max = num;
         }
-
-        cycle++;
-        
-        if (new_n == n)
+        if (num < min)
         {
-            printf("%d\n", cycle);
-            break;
+            min = num;
         }
     }
-    
+    printf("%ld %ld\n", min, max);
+
     return 0;
 }
